@@ -1,0 +1,14 @@
+#Задача №1: сформировать массив с данными для блока «Опыт работы».
+#Вывести данные массива в HTML-шаблоне.
+
+$work_exper = [
+0 => [
+'work_name' => 'Экономист',
+'work_date' => 'май 2023 - ',
+'work_text' => 'Работаю и учусь сейчас по специальности. Lorem ipsum dolor sit amet. Praesentium magnam consectetur vel in deserunt aspernatur est reprehenderit sunt hic. Nulla tempora soluta ea et odio, unde doloremque repellendus iure, iste.'
+],
+1 => [
+'work_name' => 'Репетитор',
+'work_date' => 'Август 2020 - '
+'work_text' => 'Моя вторая работа. Lorem ipsum dolor sit amet. Praesentium magnam consectetur vel in deserunt aspernatur est reprehenderit sunt hic. Nulla tempora soluta ea et odio, unde doloremque repellendus iure, iste.'
+];
